@@ -1,0 +1,824 @@
+[
+ {
+  "shot": 1,
+  "start_sec": 0.0,
+  "end_sec": 3.1,
+  "narration": "Imagine surviving an atomic bomb.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Night-black background. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) stands alone in the center, bracing with one arm raised to shield his face, as a bright white-yellow flash glows on the distant horizon behind him. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot01_0m00.0s.jpg",
+  "higgsfield_job_id": "7cb06381-883f-4af6-b349-a63fa8489452"
+ },
+ {
+  "shot": 2,
+  "start_sec": 3.1,
+  "end_sec": 5.4,
+  "narration": "Now imagine getting on a train,",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) stepping through the open sliding door of a simple old-fashioned train carriage at a small platform, mid-step. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot02_0m03.1s.jpg",
+  "higgsfield_job_id": "10c5cde5-5bc6-4ade-a391-1f9a971c34f1"
+ },
+ {
+  "shot": 3,
+  "start_sec": 5.4,
+  "end_sec": 7.2,
+  "narration": "traveling to another city…",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Simplified flat map of land in pale green and sea in light blue. A small cartoon steam train travels along a dashed route line between two round city dots. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot03_0m05.4s.jpg",
+  "higgsfield_job_id": "291c5587-5fb4-4aba-a402-931a8e0a78c3"
+ },
+ {
+  "shot": 4,
+  "start_sec": 7.2,
+  "end_sec": 9.7,
+  "narration": "and getting hit by a second one.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) with a shocked face, wide eyes and open mouth, as a second huge blinding white flash bursts behind him with bright light rays. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot04_0m07.2s.jpg",
+  "higgsfield_job_id": "66cf2372-0773-4208-94b8-4713d38bacc5"
+ },
+ {
+  "shot": 5,
+  "start_sec": 9.7,
+  "end_sec": 11.2,
+  "narration": "Three days later.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "3 DAYS LATER",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. A large flat wall calendar with blank pages, the top page flipping over with motion lines, more pages fluttering. The pages are completely blank. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot05_0m09.7s.jpg",
+  "higgsfield_job_id": "e3d8cf05-26d2-4edd-abd1-c36bf015067e"
+ },
+ {
+  "shot": 6,
+  "start_sec": 11.2,
+  "end_sec": 12.7,
+  "narration": "This actually happened.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "TRUE STORY",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. A big red rubber ink stamp slamming down onto a sheet of blank paper, with a red ink splash impact and motion lines. The paper and stamp are completely blank. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot06_0m11.2s.jpg",
+  "higgsfield_job_id": "ce160d93-e4d6-4bb5-8e44-1dc994ab0b38"
+ },
+ {
+  "shot": 7,
+  "start_sec": 12.7,
+  "end_sec": 15.4,
+  "narration": "His name was Tsutomu Yamaguchi.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "TSUTOMU YAMAGUCHI",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) standing in the center facing the viewer, smiling and giving a small wave, a soft circular spotlight behind him, empty space at the top of the frame. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot07_0m12.7s.jpg",
+  "higgsfield_job_id": "76111d7d-d1af-4603-8d2c-0d988d79728b"
+ },
+ {
+  "shot": 8,
+  "start_sec": 15.4,
+  "end_sec": 19.0,
+  "narration": "In 1945, Tsutomu was a 29-year-old engineer",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "1945 · AGE 29 · ENGINEER",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) wearing a yellow hard hat and holding a clipboard, standing confidently in front of a 1940s shipyard with cranes and a ship hull under construction. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot08_0m15.4s.jpg",
+  "higgsfield_job_id": "392f16ec-ac56-477e-8a26-0fbf3ec35a02"
+ },
+ {
+  "shot": 9,
+  "start_sec": 19.0,
+  "end_sec": 21.4,
+  "narration": "who designed oil tankers for Mitsubishi",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) sitting at a drafting table, drawing a large blueprint of a big oil tanker ship: blue paper with white line drawing of the ship. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot09_0m19.0s.jpg",
+  "higgsfield_job_id": "1b267379-0e20-4af9-99ec-267b1db8b597"
+ },
+ {
+  "shot": 10,
+  "start_sec": 21.4,
+  "end_sec": 24.0,
+  "narration": "in his hometown of Nagasaki.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "NAGASAKI",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Simplified flat map of the islands of Japan in pale green on a light-blue sea, a red map pin on the west coast of the southern island Kyushu with a tiny house icon next to it. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot10_0m21.4s.jpg",
+  "higgsfield_job_id": "0d89146b-fbb3-4ed5-b818-477ba6b61739"
+ },
+ {
+  "shot": 11,
+  "start_sec": 24.0,
+  "end_sec": 29.4,
+  "narration": "That summer, his company sent him on a three-month business trip to Hiroshima.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "3 MONTHS IN HIROSHIMA",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) carrying a brown suitcase, walking along a short dashed route line on a simplified flat map of southwestern Japan: the route starts at a red pin on the west coast of the southern island Kyushu (Nagasaki), crosses the narrow strait, and ends at a second red pin only a short distance away on the western end of the main island Honshu (Hiroshima). Only western Japan is shown. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot11_0m24.0s.jpg",
+  "higgsfield_job_id": "938982fe-2eaf-4f14-8900-d86061029fb7"
+ },
+ {
+  "shot": 12,
+  "start_sec": 29.4,
+  "end_sec": 33.9,
+  "narration": "On August 6th, it was his last day there.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "AUGUST 6, 1945",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) in a small simple rented room, packing folded clothes into an open suitcase on a bed. A blank wall calendar hangs on the wall. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot12_0m29.4s.jpg",
+  "higgsfield_job_id": "9af4256f-5f4d-4292-a913-0221abd410d8"
+ },
+ {
+  "shot": 13,
+  "start_sec": 33.9,
+  "end_sec": 38.1,
+  "narration": "Tomorrow, he'd finally go home to his wife and baby son.",
+  "characters": [
+   "Y",
+   "W"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070",
+   "393340ab-8750-40e5-8c55-3d40843a256e"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) smiling dreamily with his eyes half closed, a large thought bubble above him showing the woman from the reference image (black hair in a bun, coral-pink dress) holding the baby wrapped in a white blanket standing in front of a small cozy house. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot13_0m33.9s.jpg",
+  "higgsfield_job_id": "42794679-ceaa-4bc3-a521-3698e71951d0"
+ },
+ {
+  "shot": 14,
+  "start_sec": 38.1,
+  "end_sec": 40.4,
+  "narration": "That morning, he was walking to the shipyard",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Bright sunny morning. A single man, the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes), walking alone and happily, little music notes floating from his mouth as he whistles, shipyard cranes and a ship in the distance. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot14_0m38.1s.jpg",
+  "higgsfield_job_id": "acdc0edb-5d6f-44b3-b390-382a76145192"
+ },
+ {
+  "shot": 15,
+  "start_sec": 40.4,
+  "end_sec": 43.4,
+  "narration": "when he heard a plane overhead.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) stopped mid-walk, looking up at the sky with one hand shading his eyes, a tiny silver plane high up in a clear blue sky. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot15_0m40.4s.jpg",
+  "higgsfield_job_id": "2f96c977-7f63-41ab-9c47-f7ebb23d547b"
+ },
+ {
+  "shot": 16,
+  "start_sec": 43.4,
+  "end_sec": 47.9,
+  "narration": "He looked up and saw something drifting down on a parachute.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Close-up of a small dark cylindrical object hanging under a white parachute, slowly drifting down through a clear blue sky. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot16_0m43.4s.jpg",
+  "higgsfield_job_id": "035140f1-633e-4dff-ae46-d45d0cb871b7"
+ },
+ {
+  "shot": 17,
+  "start_sec": 47.9,
+  "end_sec": 48.7,
+  "narration": "Then,",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Dramatic close-up of the face of the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes), eyes wide open in sudden alarm, a drop of sweat on his forehead, everything frozen and still, pale sky behind him. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot17_0m47.9s.jpg",
+  "higgsfield_job_id": "7d9d7b67-9c27-40b5-90b3-1e0988e1e8bc"
+ },
+ {
+  "shot": 18,
+  "start_sec": 48.7,
+  "end_sec": 51.6,
+  "narration": "a flash brighter than the sun.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. An overwhelming blinding white flash filling almost the entire frame, with a small cartoon sun in the upper corner looking dim and tiny by comparison. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot18_0m48.7s.jpg",
+  "higgsfield_job_id": "6852a4a8-ef47-4300-9007-8720426e0ea9"
+ },
+ {
+  "shot": 19,
+  "start_sec": 51.6,
+  "end_sec": 54.6,
+  "narration": "He was about three kilometers from the blast.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "3 KM",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Side-view diagram: on the far left a bright explosion over a simple city skyline, on the far right a tiny the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes), exactly one single long dashed double-headed arrow between them along the ground. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot19_0m51.6s.jpg",
+  "higgsfield_job_id": "fac92d67-f417-4037-b5f1-d82988cde5e0"
+ },
+ {
+  "shot": 20,
+  "start_sec": 54.6,
+  "end_sec": 59.0,
+  "narration": "The shockwave threw him to the ground.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. A curved shockwave blast ring sweeping in from the left, the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) blown backward through the air off his feet, flying dust and small debris, motion lines. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot20_0m54.6s.jpg",
+  "higgsfield_job_id": "76d51ead-edf6-4f6d-b560-f5c54e9f5cbb"
+ },
+ {
+  "shot": 21,
+  "start_sec": 59.0,
+  "end_sec": 61.2,
+  "narration": "His eardrums burst.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Close-up of the head of the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) in pain, eyes squeezed shut, hands near his ears, a red zigzag symbol at his ear and ringing sound-wave lines around his head. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot21_0m59.0s.jpg",
+  "higgsfield_job_id": "8bd44997-c32a-41dc-846c-83ba00e9d96a"
+ },
+ {
+  "shot": 22,
+  "start_sec": 61.2,
+  "end_sec": 65.4,
+  "narration": "The left side of his upper body was badly burned.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) without the bandages yet: the left side of his face and his left arm marked with soft red patches, wincing and holding his left arm, grey smoke drifting in the background. Gentle, not graphic. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot22_1m01.2s.jpg",
+  "higgsfield_job_id": "d91828ec-315a-47b6-b6d0-dd52b447d825"
+ },
+ {
+  "shot": 23,
+  "start_sec": 65.4,
+  "end_sec": 69.6,
+  "narration": "When he looked up, a giant mushroom cloud was rising over the city.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Wide shot: a tiny the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) seen from behind on a low hill in the foreground, looking up at a gigantic mushroom cloud rising over a flattened city skyline. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot23_1m05.4s.jpg",
+  "higgsfield_job_id": "717904e2-f283-4d30-b40c-eadac17f525c"
+ },
+ {
+  "shot": 24,
+  "start_sec": 69.6,
+  "end_sec": 72.2,
+  "narration": "He spent the night in an air-raid shelter.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Inside a dark, simple air-raid shelter dug into the earth at night, the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) sitting huddled against the dirt wall hugging his knees, a moon visible through the entrance. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot24_1m09.6s.jpg",
+  "higgsfield_job_id": "e8fdbb3d-2761-40b0-b7db-9ee59d18d391"
+ },
+ {
+  "shot": 25,
+  "start_sec": 72.2,
+  "end_sec": 75.2,
+  "narration": "The next morning, he made his way to the station,",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Sunrise. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) limping toward a small railway station building, ruined buildings in the background. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot25_1m12.2s.jpg",
+  "higgsfield_job_id": "d0b30aee-5d45-4421-b008-32ea87e9f208"
+ },
+ {
+  "shot": 26,
+  "start_sec": 75.2,
+  "end_sec": 77.5,
+  "narration": "found one of the few trains still running,",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. An old steam train crowded with many simple grey stickman passengers, the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) squeezing aboard through the open door, steam puffing from the engine. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot26_1m15.2s.jpg",
+  "higgsfield_job_id": "e2e6384d-c178-467e-a1ff-ae546d9da07b"
+ },
+ {
+  "shot": 27,
+  "start_sec": 77.5,
+  "end_sec": 79.9,
+  "narration": "and rode it home to Nagasaki.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "NAGASAKI",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. A steam train arriving at a station platform under a blank station name board, the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) stepping off the train. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot27_1m17.5s.jpg",
+  "higgsfield_job_id": "94c2c4f4-6cf1-40fb-b5e0-1ac44c2a957e"
+ },
+ {
+  "shot": 28,
+  "start_sec": 79.9,
+  "end_sec": 85.0,
+  "narration": "Wrapped in bandages, exhausted, he had survived the unthinkable.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) slumped on a wooden bench, exhausted, a small sigh puff cloud coming from his mouth. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot28_1m19.9s.jpg",
+  "higgsfield_job_id": "155bb584-54df-462b-8bcc-cc4d071555ec"
+ },
+ {
+  "shot": 29,
+  "start_sec": 85.0,
+  "end_sec": 87.3,
+  "narration": "Surely, the worst was over.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) smiling faintly with relief, looking up at a sky where subtle ominous dark clouds are gathering. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot29_1m25.0s.jpg",
+  "higgsfield_job_id": "776aa13f-5bd7-46f0-8ee7-d62d4cdc6251"
+ },
+ {
+  "shot": 30,
+  "start_sec": 87.3,
+  "end_sec": 91.6,
+  "narration": "On August 9th, he insisted on going back to work.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "AUGUST 9, 1945",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) walking through a doorway into a simple 1940s office with desks and a filing cabinet, a blank wall calendar on the wall. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot30_1m27.3s.jpg",
+  "higgsfield_job_id": "835baf56-93c9-45ce-87e6-b338ad3e1d33"
+ },
+ {
+  "shot": 31,
+  "start_sec": 91.6,
+  "end_sec": 95.2,
+  "narration": "He was telling his supervisor what he'd seen.",
+  "characters": [
+   "I",
+   "S"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89",
+   "e64267af-0da7-4b54-978a-c0636d7296d9"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Simple 1940s office. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) gesturing wildly with both arms while talking to the supervisor from the reference image (combed black hair, small round glasses, small mustache, grey suit, dark red tie), who stands listening. A large window behind them shows the city. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot31_1m31.6s.jpg",
+  "higgsfield_job_id": "747843dd-70ac-4129-8ead-b479336321af"
+ },
+ {
+  "shot": 32,
+  "start_sec": 95.2,
+  "end_sec": 98.5,
+  "narration": "One bomb destroying an entire city.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) talking urgently, a big speech bubble above him containing a picture of one simple round black cartoon bomb with a short fuse beside a city of buildings crumbling into rubble. No clock, no timer, no digits in the bubble. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot32_1m35.2s.jpg",
+  "higgsfield_job_id": "7cb6fc7b-9ce1-4a09-9215-b00fb28eaeb3"
+ },
+ {
+  "shot": 33,
+  "start_sec": 98.5,
+  "end_sec": 100.7,
+  "narration": "His boss didn't believe him.",
+  "characters": [
+   "S"
+  ],
+  "media_ids": [
+   "e64267af-0da7-4b54-978a-c0636d7296d9"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the supervisor from the reference image (combed black hair, small round glasses, small mustache, grey suit, dark red tie) with arms crossed, rolling his eyes, a big question mark symbol floating above his head. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot33_1m38.5s.jpg",
+  "higgsfield_job_id": "41bdcf54-ca91-4cfb-802b-d2061fd59d5f"
+ },
+ {
+  "shot": 34,
+  "start_sec": 100.7,
+  "end_sec": 103.2,
+  "narration": "\"That's impossible,\" he said.",
+  "characters": [
+   "S"
+  ],
+  "media_ids": [
+   "e64267af-0da7-4b54-978a-c0636d7296d9"
+  ],
+  "overlay_text": "IMPOSSIBLE!",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the supervisor from the reference image (combed black hair, small round glasses, small mustache, grey suit, dark red tie) waving both hands dismissively with an exasperated face, a large empty speech bubble next to him. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot34_1m40.7s.jpg",
+  "higgsfield_job_id": "6e8b380d-83a3-4bc2-a66b-afa126a41504"
+ },
+ {
+  "shot": 35,
+  "start_sec": 103.2,
+  "end_sec": 105.7,
+  "narration": "\"One bomb can't do that.\"",
+  "characters": [
+   "S",
+   "I"
+  ],
+  "media_ids": [
+   "e64267af-0da7-4b54-978a-c0636d7296d9",
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the supervisor from the reference image (combed black hair, small round glasses, small mustache, grey suit, dark red tie) laughing and pointing at the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers), who looks frustrated. Simple office background. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot35_1m43.2s.jpg",
+  "higgsfield_job_id": "473a202d-5c3e-410c-b951-8ea157367f23"
+ },
+ {
+  "shot": 36,
+  "start_sec": 105.7,
+  "end_sec": 107.9,
+  "narration": "And at that exact moment,",
+  "characters": [
+   "I",
+   "S"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89",
+   "e64267af-0da7-4b54-978a-c0636d7296d9"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) and the supervisor from the reference image (combed black hair, small round glasses, small mustache, grey suit, dark red tie) mid-conversation in the office, unaware, as the large window behind them begins to glow bright white-yellow. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot36_1m45.7s.jpg",
+  "higgsfield_job_id": "cec421a4-357e-4651-a19b-7d70a995367a"
+ },
+ {
+  "shot": 37,
+  "start_sec": 107.9,
+  "end_sec": 112.4,
+  "narration": "the room filled with the same blinding white light.",
+  "characters": [
+   "I",
+   "S"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89",
+   "e64267af-0da7-4b54-978a-c0636d7296d9"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Overexposed whiteout: the entire frame is flooded with overwhelming pure white light bursting through the office window, nearly everything is white, and the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) and the supervisor from the reference image (combed black hair, small round glasses, small mustache, grey suit, dark red tie) are visible only as very faint thin pale-grey outlines, as if fading into the glare. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot37_1m47.9s.jpg",
+  "higgsfield_job_id": "8340b2af-f394-427f-ad37-507f48181ab1"
+ },
+ {
+  "shot": 38,
+  "start_sec": 112.4,
+  "end_sec": 118.1,
+  "narration": "Once again, Tsutomu was about three kilometers from ground zero.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "3 KM… AGAIN",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Side-view diagram: on the far left a bright explosion over hills and a harbor city, on the far right a tiny the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers), exactly one single long dashed double-headed arrow between them along the ground. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot38_1m52.4s.jpg",
+  "higgsfield_job_id": "4d43ce24-c4fa-4c4f-8ae3-f359fc9ccbda"
+ },
+ {
+  "shot": 39,
+  "start_sec": 118.1,
+  "end_sec": 121.0,
+  "narration": "Somehow, he survived again.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) crawling out from under a pile of broken wooden beams and rubble, coughing, dust in the air. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot39_1m58.1s.jpg",
+  "higgsfield_job_id": "baed4c61-843b-49e5-9fe4-04a2fbf9ec2d"
+ },
+ {
+  "shot": 40,
+  "start_sec": 121.0,
+  "end_sec": 126.9,
+  "narration": "His bandages were torn off, and he fell sick with fever for over a week.",
+  "characters": [
+   "I"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89"
+  ],
+  "overlay_text": "1 WEEK",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) lying sick in a simple bed, a thermometer in his mouth, sweat drops, a damp cloth on his forehead, blank calendar pages flying off a wall calendar. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot40_2m01.0s.jpg",
+  "higgsfield_job_id": "3c9fb9da-5782-405b-8ffa-e33e8439d813"
+ },
+ {
+  "shot": 41,
+  "start_sec": 126.9,
+  "end_sec": 130.5,
+  "narration": "But his wife and son had also survived.",
+  "characters": [
+   "I",
+   "W"
+  ],
+  "media_ids": [
+   "34ed8cb5-437d-498a-b2b0-db5b9e421d89",
+   "393340ab-8750-40e5-8c55-3d40843a256e"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the injured man from the reference image (same young man with a white bandage around his forehead, a bandaged left forearm, light-blue shirt, dark grey trousers) hugging the woman from the reference image (black hair in a bun, coral-pink dress) holding the baby wrapped in a white blanket, both overjoyed with tears of relief, a red heart floating above them. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot41_2m06.9s.jpg",
+  "higgsfield_job_id": "51e7829f-82ec-47eb-ba3c-83b2d6ec2f32"
+ },
+ {
+  "shot": 42,
+  "start_sec": 130.5,
+  "end_sec": 135.1,
+  "narration": "And Tsutomu went on to live a long life.",
+  "characters": [
+   "Y",
+   "O"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070",
+   "80a0583b-5303-44d3-8747-b5eddc9e1d45"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. A row of four versions of the same man walking left to right and growing older: first the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes), then the same man slightly older, then middle-aged with greying hair, and finally the old man from the reference image (short grey-white hair, light-blue shirt, dark grey trousers, brown wooden cane). A long arrow beneath them pointing right. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot42_2m10.5s.jpg",
+  "higgsfield_job_id": "e6bf65b7-c39e-4924-a654-b3e95490b1dc"
+ },
+ {
+  "shot": 43,
+  "start_sec": 135.1,
+  "end_sec": 140.2,
+  "narration": "He had more children, worked as a teacher and an engineer again.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes), a little older, standing beside a classroom chalkboard with simple chalk drawings of a ship, two small children standing next to him smiling. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot43_2m15.1s.jpg",
+  "higgsfield_job_id": "7f4670d3-dffd-4f07-8e04-58314e55f65d"
+ },
+ {
+  "shot": 44,
+  "start_sec": 140.2,
+  "end_sec": 146.9,
+  "narration": "And in 2009, the Japanese government officially recognized him as a survivor of both bombings,",
+  "characters": [
+   "O"
+  ],
+  "media_ids": [
+   "80a0583b-5303-44d3-8747-b5eddc9e1d45"
+  ],
+  "overlay_text": "2009",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the old man from the reference image (short grey-white hair, light-blue shirt, dark grey trousers, brown wooden cane) smiling proudly, receiving a framed certificate from a smiling government official in a dark suit (round white head with dot eyes and a smile, short black hair); the certificate has no readable writing. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot44_2m20.2s.jpg",
+  "higgsfield_job_id": "e769a55c-4c81-4e73-8741-f673a45bd6da"
+ },
+ {
+  "shot": 45,
+  "start_sec": 146.9,
+  "end_sec": 150.8,
+  "narration": "the only person ever formally given that status.",
+  "characters": [
+   "O"
+  ],
+  "media_ids": [
+   "80a0583b-5303-44d3-8747-b5eddc9e1d45"
+  ],
+  "overlay_text": "THE ONLY ONE",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the old man from the reference image (short grey-white hair, light-blue shirt, dark grey trousers, brown wooden cane) standing alone in a bright spotlight on a dark stage, a shiny gold medal on his shirt. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot45_2m26.9s.jpg",
+  "higgsfield_job_id": "139b1b74-e68d-4506-8ec7-56d80743ee62"
+ },
+ {
+  "shot": 46,
+  "start_sec": 150.8,
+  "end_sec": 154.8,
+  "narration": "In his later years, he traveled and spoke out against nuclear weapons,",
+  "characters": [
+   "O"
+  ],
+  "media_ids": [
+   "80a0583b-5303-44d3-8747-b5eddc9e1d45"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the old man from the reference image (short grey-white hair, light-blue shirt, dark grey trousers, brown wooden cane) speaking at a wooden podium to a crowd of simple stickman listeners, one of them holding up a sign showing a radiation symbol inside a red prohibition circle. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot46_2m30.8s.jpg",
+  "higgsfield_job_id": "5b1afdfa-45be-4580-85cb-10d450169ea0"
+ },
+ {
+  "shot": 47,
+  "start_sec": 154.8,
+  "end_sec": 157.9,
+  "narration": "so no one would ever experience what he did.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. Simple stickman children playing peacefully in a sunny green park, one flying a kite, trees and a few white paper cranes in the blue sky. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot47_2m34.8s.jpg",
+  "higgsfield_job_id": "121e5725-4ca4-420a-b035-b0216fa5ab1d"
+ },
+ {
+  "shot": 48,
+  "start_sec": 157.9,
+  "end_sec": 159.3,
+  "narration": "Twice.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "×2",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Two identical bright white-yellow explosion flash icons side by side on a dark night background. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot48_2m37.9s.jpg",
+  "higgsfield_job_id": "d23a6171-e81c-44a2-ad67-177d1245ebd1"
+ },
+ {
+  "shot": 49,
+  "start_sec": 159.3,
+  "end_sec": 164.3,
+  "narration": "Tsutomu Yamaguchi died in 2010 at the age of 93.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "2010 · AGE 93",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. A single white origami paper crane resting on a soft plain warm-grey background, gentle light, calm and quiet. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot49_2m39.3s.jpg",
+  "higgsfield_job_id": "7ce6f384-af70-4388-8e87-31ce09265377"
+ },
+ {
+  "shot": 50,
+  "start_sec": 164.3,
+  "end_sec": 167.6,
+  "narration": "Some people call him the unluckiest man in history.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "UNLUCKIEST?",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) standing sadly under a small dark rain cloud that rains only on him, gloomy grey background. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot50_2m44.3s.jpg",
+  "higgsfield_job_id": "e27f14f6-72a9-47c1-9a99-d39279776e3a"
+ },
+ {
+  "shot": 51,
+  "start_sec": 167.6,
+  "end_sec": 169.7,
+  "narration": "Others call him the luckiest.",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "LUCKIEST?",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) smiling under a bright sun, a big green four-leaf clover beside him, cheerful warm yellow background. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot51_2m47.6s.jpg",
+  "higgsfield_job_id": "685630dd-3dc5-451e-a4e3-2238fc186049"
+ },
+ {
+  "shot": 52,
+  "start_sec": 169.7,
+  "end_sec": 171.2,
+  "narration": "What do you think?",
+  "characters": [
+   "Y"
+  ],
+  "media_ids": [
+   "6692f375-a78a-4754-897c-e26053481070"
+  ],
+  "overlay_text": "",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. Characters have perfectly round white heads, small solid black dot eyes, simple eyebrows and line mouths, stick-line arms with small round hands. the young man from the reference image (short black side-parted hair, light-blue short-sleeve collared shirt, dark grey trousers, black shoes) shrugging with both palms up, looking straight at the viewer with a curious face, a large question mark symbol above him. Match the attached character reference image(s) exactly: same head shape, face, hair, clothing colors and line weight. Do not draw a character sheet. Each character appears exactly once; never draw duplicate copies of the same person. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot52_2m49.7s.jpg",
+  "higgsfield_job_id": "18433c52-fcba-49a9-a78b-27536d80e6a1"
+ },
+ {
+  "shot": 53,
+  "start_sec": 171.2,
+  "end_sec": 176.1,
+  "narration": "Tell me in the comments and subscribe for more stories that sound too crazy to be true.",
+  "characters": [],
+  "media_ids": [],
+  "overlay_text": "SUBSCRIBE",
+  "prompt": "Clean flat 2D vector cartoon illustration for a stickman explainer video: crisp uniform thick black outlines, flat colors, no shading, no gradients, simple uncluttered background in flat muted colors. A large white speech-bubble comment icon and a red rounded rectangle button with a white bell icon next to it, a cartoon hand cursor clicking the red button, on a full-bleed warm beige background that fills the whole frame edge to edge with no border or inner frame. The button has no writing. No people or characters anywhere in this image. 16:9 widescreen, one single scene. Absolutely no text of any kind anywhere: no words, letters, numbers, labels, captions, writing on signs or paper, and no watermark.",
+  "image_file": "visuals/shots/shot53_2m51.2s.jpg",
+  "higgsfield_job_id": "731f27e2-5bf3-43b7-9910-9f08d18c4421"
+ }
+]
