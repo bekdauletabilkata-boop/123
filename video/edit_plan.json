@@ -1,0 +1,2352 @@
+{
+ "project": "Atomic bomb",
+ "fps": 30,
+ "canvas": [
+  1920,
+  1080
+ ],
+ "duration": 176.1,
+ "voiceover": {
+  "file": "voiceover/the-man-who-survived-two-atomic-bombs-full.mp3",
+  "start": 0.0,
+  "level_db": 0
+ },
+ "video": [
+  {
+   "shot": 1,
+   "image": "visuals/shots/shot01_0m00.0s.jpg",
+   "clip": "clips/clip01.mp4",
+   "start": 0.0,
+   "end": 3.1,
+   "keyframes": [
+    {
+     "t": 0.0,
+     "scale": 1.0
+    },
+    {
+     "t": 3.1,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 2,
+   "image": "visuals/shots/shot02_0m03.1s.jpg",
+   "clip": "clips/clip02.mp4",
+   "start": 3.1,
+   "end": 5.4,
+   "keyframes": [
+    {
+     "t": 3.1,
+     "scale": 1.03
+    },
+    {
+     "t": 5.4,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 3,
+   "image": "visuals/shots/shot03_0m05.4s.jpg",
+   "clip": "clips/clip03.mp4",
+   "start": 5.4,
+   "end": 7.2,
+   "keyframes": [
+    {
+     "t": 5.4,
+     "scale": 1.0
+    },
+    {
+     "t": 7.2,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 4,
+   "image": "visuals/shots/shot04_0m07.2s.jpg",
+   "clip": "clips/clip04.mp4",
+   "start": 7.2,
+   "end": 9.7,
+   "keyframes": [
+    {
+     "t": 7.2,
+     "scale": 1.03
+    },
+    {
+     "t": 9.7,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 5,
+   "image": "visuals/shots/shot05_0m09.7s.jpg",
+   "clip": "clips/clip05.mp4",
+   "start": 9.7,
+   "end": 11.2,
+   "keyframes": [
+    {
+     "t": 9.7,
+     "scale": 1.0
+    },
+    {
+     "t": 11.2,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 6,
+   "image": "visuals/shots/shot06_0m11.2s.jpg",
+   "clip": "clips/clip06.mp4",
+   "start": 11.2,
+   "end": 12.7,
+   "keyframes": [
+    {
+     "t": 11.2,
+     "scale": 1.03
+    },
+    {
+     "t": 12.7,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 7,
+   "image": "visuals/shots/shot07_0m12.7s.jpg",
+   "clip": "clips/clip07.mp4",
+   "start": 12.7,
+   "end": 15.4,
+   "keyframes": [
+    {
+     "t": 12.7,
+     "scale": 1.0
+    },
+    {
+     "t": 15.4,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 8,
+   "image": "visuals/shots/shot08_0m15.4s.jpg",
+   "clip": "clips/clip08.mp4",
+   "start": 15.4,
+   "end": 19.0,
+   "keyframes": [
+    {
+     "t": 15.4,
+     "scale": 1.03
+    },
+    {
+     "t": 19.0,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 9,
+   "image": "visuals/shots/shot09_0m19.0s.jpg",
+   "clip": "clips/clip09.mp4",
+   "start": 19.0,
+   "end": 21.4,
+   "keyframes": [
+    {
+     "t": 19.0,
+     "scale": 1.0
+    },
+    {
+     "t": 21.4,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 10,
+   "image": "visuals/shots/shot10_0m21.4s.jpg",
+   "clip": "clips/clip10.mp4",
+   "start": 21.4,
+   "end": 24.0,
+   "keyframes": [
+    {
+     "t": 21.4,
+     "scale": 1.03
+    },
+    {
+     "t": 24.0,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 11,
+   "image": "visuals/shots/shot11_0m24.0s.jpg",
+   "clip": "clips/clip11.mp4",
+   "start": 24.0,
+   "end": 29.4,
+   "keyframes": [
+    {
+     "t": 24.0,
+     "scale": 1.0
+    },
+    {
+     "t": 29.4,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 12,
+   "image": "visuals/shots/shot12_0m29.4s.jpg",
+   "clip": "clips/clip12.mp4",
+   "start": 29.4,
+   "end": 33.9,
+   "keyframes": [
+    {
+     "t": 29.4,
+     "scale": 1.03
+    },
+    {
+     "t": 33.9,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 13,
+   "image": "visuals/shots/shot13_0m33.9s.jpg",
+   "clip": "clips/clip13.mp4",
+   "start": 33.9,
+   "end": 38.1,
+   "keyframes": [
+    {
+     "t": 33.9,
+     "scale": 1.0
+    },
+    {
+     "t": 38.1,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 14,
+   "image": "visuals/shots/shot14_0m38.1s.jpg",
+   "clip": "clips/clip14.mp4",
+   "start": 38.1,
+   "end": 40.4,
+   "keyframes": [
+    {
+     "t": 38.1,
+     "scale": 1.03
+    },
+    {
+     "t": 40.4,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 15,
+   "image": "visuals/shots/shot15_0m40.4s.jpg",
+   "clip": "clips/clip15.mp4",
+   "start": 40.4,
+   "end": 43.4,
+   "keyframes": [
+    {
+     "t": 40.4,
+     "scale": 1.0
+    },
+    {
+     "t": 43.4,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 16,
+   "image": "visuals/shots/shot16_0m43.4s.jpg",
+   "clip": "clips/clip16.mp4",
+   "start": 43.4,
+   "end": 47.9,
+   "keyframes": [
+    {
+     "t": 43.4,
+     "scale": 1.03
+    },
+    {
+     "t": 47.9,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 17,
+   "image": "visuals/shots/shot17_0m47.9s.jpg",
+   "clip": "clips/clip17.mp4",
+   "start": 47.9,
+   "end": 48.7,
+   "keyframes": [
+    {
+     "t": 47.9,
+     "scale": 1.0
+    },
+    {
+     "t": 48.7,
+     "scale": 1.015
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 18,
+   "image": "visuals/shots/shot18_0m48.7s.jpg",
+   "clip": "clips/clip18.mp4",
+   "start": 48.7,
+   "end": 51.6,
+   "keyframes": [
+    {
+     "t": 48.7,
+     "scale": 1.03
+    },
+    {
+     "t": 51.6,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 19,
+   "image": "visuals/shots/shot19_0m51.6s.jpg",
+   "clip": "clips/clip19.mp4",
+   "start": 51.6,
+   "end": 54.6,
+   "keyframes": [
+    {
+     "t": 51.6,
+     "scale": 1.0
+    },
+    {
+     "t": 54.6,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 20,
+   "image": "visuals/shots/shot20_0m54.6s.jpg",
+   "clip": "clips/clip20.mp4",
+   "start": 54.6,
+   "end": 59.0,
+   "keyframes": [
+    {
+     "t": 54.6,
+     "scale": 1.03
+    },
+    {
+     "t": 59.0,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 21,
+   "image": "visuals/shots/shot21_0m59.0s.jpg",
+   "clip": "clips/clip21.mp4",
+   "start": 59.0,
+   "end": 61.2,
+   "keyframes": [
+    {
+     "t": 59.0,
+     "scale": 1.0
+    },
+    {
+     "t": 61.2,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 22,
+   "image": "visuals/shots/shot22_1m01.2s.jpg",
+   "clip": "clips/clip22.mp4",
+   "start": 61.2,
+   "end": 65.4,
+   "keyframes": [
+    {
+     "t": 61.2,
+     "scale": 1.03
+    },
+    {
+     "t": 65.4,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 23,
+   "image": "visuals/shots/shot23_1m05.4s.jpg",
+   "clip": "clips/clip23.mp4",
+   "start": 65.4,
+   "end": 69.6,
+   "keyframes": [
+    {
+     "t": 65.4,
+     "scale": 1.0
+    },
+    {
+     "t": 69.6,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 24,
+   "image": "visuals/shots/shot24_1m09.6s.jpg",
+   "clip": "clips/clip24.mp4",
+   "start": 69.6,
+   "end": 72.2,
+   "keyframes": [
+    {
+     "t": 69.6,
+     "scale": 1.03
+    },
+    {
+     "t": 72.2,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 25,
+   "image": "visuals/shots/shot25_1m12.2s.jpg",
+   "clip": "clips/clip25.mp4",
+   "start": 72.2,
+   "end": 75.2,
+   "keyframes": [
+    {
+     "t": 72.2,
+     "scale": 1.0
+    },
+    {
+     "t": 75.2,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 26,
+   "image": "visuals/shots/shot26_1m15.2s.jpg",
+   "clip": "clips/clip26.mp4",
+   "start": 75.2,
+   "end": 77.5,
+   "keyframes": [
+    {
+     "t": 75.2,
+     "scale": 1.03
+    },
+    {
+     "t": 77.5,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 27,
+   "image": "visuals/shots/shot27_1m17.5s.jpg",
+   "clip": "clips/clip27.mp4",
+   "start": 77.5,
+   "end": 79.9,
+   "keyframes": [
+    {
+     "t": 77.5,
+     "scale": 1.0
+    },
+    {
+     "t": 79.9,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 28,
+   "image": "visuals/shots/shot28_1m19.9s.jpg",
+   "clip": "clips/clip28.mp4",
+   "start": 79.9,
+   "end": 85.0,
+   "keyframes": [
+    {
+     "t": 79.9,
+     "scale": 1.03
+    },
+    {
+     "t": 85.0,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 29,
+   "image": "visuals/shots/shot29_1m25.0s.jpg",
+   "clip": "clips/clip29.mp4",
+   "start": 85.0,
+   "end": 87.3,
+   "keyframes": [
+    {
+     "t": 85.0,
+     "scale": 1.0
+    },
+    {
+     "t": 87.3,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 30,
+   "image": "visuals/shots/shot30_1m27.3s.jpg",
+   "clip": "clips/clip30.mp4",
+   "start": 87.3,
+   "end": 91.6,
+   "keyframes": [
+    {
+     "t": 87.3,
+     "scale": 1.03
+    },
+    {
+     "t": 91.6,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 31,
+   "image": "visuals/shots/shot31_1m31.6s.jpg",
+   "clip": "clips/clip31.mp4",
+   "start": 91.6,
+   "end": 95.2,
+   "keyframes": [
+    {
+     "t": 91.6,
+     "scale": 1.0
+    },
+    {
+     "t": 95.2,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 32,
+   "image": "visuals/shots/shot32_1m35.2s.jpg",
+   "clip": "clips/clip32.mp4",
+   "start": 95.2,
+   "end": 98.5,
+   "keyframes": [
+    {
+     "t": 95.2,
+     "scale": 1.03
+    },
+    {
+     "t": 98.5,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 33,
+   "image": "visuals/shots/shot33_1m38.5s.jpg",
+   "clip": "clips/clip33.mp4",
+   "start": 98.5,
+   "end": 100.7,
+   "keyframes": [
+    {
+     "t": 98.5,
+     "scale": 1.0
+    },
+    {
+     "t": 100.7,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 34,
+   "image": "visuals/shots/shot34_1m40.7s.jpg",
+   "clip": "clips/clip34.mp4",
+   "start": 100.7,
+   "end": 103.2,
+   "keyframes": [
+    {
+     "t": 100.7,
+     "scale": 1.03
+    },
+    {
+     "t": 103.2,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 35,
+   "image": "visuals/shots/shot35_1m43.2s.jpg",
+   "clip": "clips/clip35.mp4",
+   "start": 103.2,
+   "end": 105.7,
+   "keyframes": [
+    {
+     "t": 103.2,
+     "scale": 1.0
+    },
+    {
+     "t": 105.7,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 36,
+   "image": "visuals/shots/shot36_1m45.7s.jpg",
+   "clip": "clips/clip36.mp4",
+   "start": 105.7,
+   "end": 107.9,
+   "keyframes": [
+    {
+     "t": 105.7,
+     "scale": 1.03
+    },
+    {
+     "t": 107.9,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 37,
+   "image": "visuals/shots/shot37_1m47.9s.jpg",
+   "clip": "clips/clip37.mp4",
+   "start": 107.9,
+   "end": 112.4,
+   "keyframes": [
+    {
+     "t": 107.9,
+     "scale": 1.0
+    },
+    {
+     "t": 112.4,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 38,
+   "image": "visuals/shots/shot38_1m52.4s.jpg",
+   "clip": "clips/clip38.mp4",
+   "start": 112.4,
+   "end": 118.1,
+   "keyframes": [
+    {
+     "t": 112.4,
+     "scale": 1.03
+    },
+    {
+     "t": 118.1,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 39,
+   "image": "visuals/shots/shot39_1m58.1s.jpg",
+   "clip": "clips/clip39.mp4",
+   "start": 118.1,
+   "end": 121.0,
+   "keyframes": [
+    {
+     "t": 118.1,
+     "scale": 1.0
+    },
+    {
+     "t": 121.0,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 40,
+   "image": "visuals/shots/shot40_2m01.0s.jpg",
+   "clip": "clips/clip40.mp4",
+   "start": 121.0,
+   "end": 126.9,
+   "keyframes": [
+    {
+     "t": 121.0,
+     "scale": 1.03
+    },
+    {
+     "t": 126.9,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 41,
+   "image": "visuals/shots/shot41_2m06.9s.jpg",
+   "clip": "clips/clip41.mp4",
+   "start": 126.9,
+   "end": 130.5,
+   "keyframes": [
+    {
+     "t": 126.9,
+     "scale": 1.0
+    },
+    {
+     "t": 130.5,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 42,
+   "image": "visuals/shots/shot42_2m10.5s.jpg",
+   "clip": "clips/clip42.mp4",
+   "start": 130.5,
+   "end": 135.1,
+   "keyframes": [
+    {
+     "t": 130.5,
+     "scale": 1.03
+    },
+    {
+     "t": 135.1,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 43,
+   "image": "visuals/shots/shot43_2m15.1s.jpg",
+   "clip": "clips/clip43.mp4",
+   "start": 135.1,
+   "end": 140.2,
+   "keyframes": [
+    {
+     "t": 135.1,
+     "scale": 1.0
+    },
+    {
+     "t": 140.2,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 44,
+   "image": "visuals/shots/shot44_2m20.2s.jpg",
+   "clip": "clips/clip44.mp4",
+   "start": 140.2,
+   "end": 146.9,
+   "keyframes": [
+    {
+     "t": 140.2,
+     "scale": 1.03
+    },
+    {
+     "t": 146.9,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 45,
+   "image": "visuals/shots/shot45_2m26.9s.jpg",
+   "clip": "clips/clip45.mp4",
+   "start": 146.9,
+   "end": 150.8,
+   "keyframes": [
+    {
+     "t": 146.9,
+     "scale": 1.0
+    },
+    {
+     "t": 150.8,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 46,
+   "image": "visuals/shots/shot46_2m30.8s.jpg",
+   "clip": "clips/clip46.mp4",
+   "start": 150.8,
+   "end": 154.8,
+   "keyframes": [
+    {
+     "t": 150.8,
+     "scale": 1.03
+    },
+    {
+     "t": 154.8,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 47,
+   "image": "visuals/shots/shot47_2m34.8s.jpg",
+   "clip": "clips/clip47.mp4",
+   "start": 154.8,
+   "end": 157.9,
+   "keyframes": [
+    {
+     "t": 154.8,
+     "scale": 1.0
+    },
+    {
+     "t": 157.9,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 48,
+   "image": "visuals/shots/shot48_2m37.9s.jpg",
+   "clip": "clips/clip48.mp4",
+   "start": 157.9,
+   "end": 159.3,
+   "keyframes": [
+    {
+     "t": 157.9,
+     "scale": 1.015
+    },
+    {
+     "t": 159.3,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 49,
+   "image": "visuals/shots/shot49_2m39.3s.jpg",
+   "clip": "clips/clip49.mp4",
+   "start": 159.3,
+   "end": 164.3,
+   "keyframes": [
+    {
+     "t": 159.3,
+     "scale": 1.0
+    },
+    {
+     "t": 164.3,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 50,
+   "image": "visuals/shots/shot50_2m44.3s.jpg",
+   "clip": "clips/clip50.mp4",
+   "start": 164.3,
+   "end": 167.6,
+   "keyframes": [
+    {
+     "t": 164.3,
+     "scale": 1.03
+    },
+    {
+     "t": 167.6,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 51,
+   "image": "visuals/shots/shot51_2m47.6s.jpg",
+   "clip": "clips/clip51.mp4",
+   "start": 167.6,
+   "end": 169.7,
+   "keyframes": [
+    {
+     "t": 167.6,
+     "scale": 1.0
+    },
+    {
+     "t": 169.7,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 52,
+   "image": "visuals/shots/shot52_2m49.7s.jpg",
+   "clip": "clips/clip52.mp4",
+   "start": 169.7,
+   "end": 171.2,
+   "keyframes": [
+    {
+     "t": 169.7,
+     "scale": 1.03
+    },
+    {
+     "t": 171.2,
+     "scale": 1.0
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  },
+  {
+   "shot": 53,
+   "image": "visuals/shots/shot53_2m51.2s.jpg",
+   "clip": "clips/clip53.mp4",
+   "start": 171.2,
+   "end": 176.1,
+   "keyframes": [
+    {
+     "t": 171.2,
+     "scale": 1.0
+    },
+    {
+     "t": 176.1,
+     "scale": 1.03
+    }
+   ],
+   "anchor": "center",
+   "easing": "linear"
+  }
+ ],
+ "titles": [
+  {
+   "shot": 5,
+   "text": "3 DAYS LATER",
+   "start": 9.8,
+   "end": 11.2,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 6,
+   "text": "TRUE STORY",
+   "start": 11.3,
+   "end": 12.7,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 7,
+   "text": "TSUTOMU YAMAGUCHI",
+   "start": 12.8,
+   "end": 15.4,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 8,
+   "text": "1945 · AGE 29 · ENGINEER",
+   "start": 15.5,
+   "end": 19.0,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 10,
+   "text": "NAGASAKI",
+   "start": 21.5,
+   "end": 24.0,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 11,
+   "text": "3 MONTHS IN HIROSHIMA",
+   "start": 24.1,
+   "end": 29.4,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 12,
+   "text": "AUGUST 6, 1945",
+   "start": 29.5,
+   "end": 33.9,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 19,
+   "text": "3 KM",
+   "start": 51.7,
+   "end": 54.6,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 27,
+   "text": "NAGASAKI",
+   "start": 77.6,
+   "end": 79.9,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 30,
+   "text": "AUGUST 9, 1945",
+   "start": 87.4,
+   "end": 91.6,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 34,
+   "text": "IMPOSSIBLE!",
+   "start": 100.8,
+   "end": 103.2,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "black",
+   "stroke": null,
+   "center_px": [
+    1375,
+    335
+   ],
+   "note": "inside the empty speech bubble"
+  },
+  {
+   "shot": 38,
+   "text": "3 KM… AGAIN",
+   "start": 112.5,
+   "end": 118.1,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 40,
+   "text": "1 WEEK",
+   "start": 121.1,
+   "end": 126.9,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 44,
+   "text": "2009",
+   "start": 140.3,
+   "end": 146.9,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 45,
+   "text": "THE ONLY ONE",
+   "start": 147.0,
+   "end": 150.8,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 48,
+   "text": "×2",
+   "start": 158.0,
+   "end": 159.3,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 49,
+   "text": "2010 · AGE 93",
+   "start": 159.4,
+   "end": 164.3,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 50,
+   "text": "UNLUCKIEST?",
+   "start": 164.4,
+   "end": 167.6,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 51,
+   "text": "LUCKIEST?",
+   "start": 167.7,
+   "end": 169.7,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  },
+  {
+   "shot": 53,
+   "text": "SUBSCRIBE",
+   "start": 171.3,
+   "end": 176.1,
+   "font_px": 100,
+   "weight": "extra bold",
+   "fade_in": 0.2,
+   "color": "white",
+   "stroke": {
+    "color": "black",
+    "px": 5
+   },
+   "shadow": true,
+   "center_px": [
+    960,
+    140
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "text": "Imagine surviving an atomic bomb.",
+   "start": 0.0,
+   "end": 2.86
+  },
+  {
+   "text": "Now imagine getting on a train,",
+   "start": 3.16,
+   "end": 5.48
+  },
+  {
+   "text": "traveling to another city,",
+   "start": 5.48,
+   "end": 7.24
+  },
+  {
+   "text": "and getting hit by a second one.",
+   "start": 7.24,
+   "end": 9.52
+  },
+  {
+   "text": "Three days later,",
+   "start": 9.74,
+   "end": 11.26
+  },
+  {
+   "text": "this actually happened.",
+   "start": 11.26,
+   "end": 12.78
+  },
+  {
+   "text": "His name was Tsutomu Yamaguchi.",
+   "start": 12.8,
+   "end": 15.48
+  },
+  {
+   "text": "In 1945 Tsutomu was a 29-year-old",
+   "start": 15.48,
+   "end": 18.62
+  },
+  {
+   "text": "engineer who designed oil tankers",
+   "start": 18.62,
+   "end": 20.66
+  },
+  {
+   "text": "for Mitsubishi in his hometown",
+   "start": 20.66,
+   "end": 22.18
+  },
+  {
+   "text": "of Nagasaki.",
+   "start": 22.18,
+   "end": 23.68
+  },
+  {
+   "text": "That summer,",
+   "start": 24.08,
+   "end": 25.12
+  },
+  {
+   "text": "his company sent him on a three-month",
+   "start": 25.12,
+   "end": 27.08
+  },
+  {
+   "text": "business trip to Hiroshima.",
+   "start": 27.08,
+   "end": 29.32
+  },
+  {
+   "text": "On August 6th,",
+   "start": 29.44,
+   "end": 31.46
+  },
+  {
+   "text": "it was his last day there.",
+   "start": 31.46,
+   "end": 33.62
+  },
+  {
+   "text": "Tomorrow,",
+   "start": 33.98,
+   "end": 34.62
+  },
+  {
+   "text": "he'd finally go home to",
+   "start": 34.62,
+   "end": 36.08
+  },
+  {
+   "text": "his wife and baby son.",
+   "start": 36.08,
+   "end": 38.14
+  },
+  {
+   "text": "That morning,",
+   "start": 38.18,
+   "end": 39.06
+  },
+  {
+   "text": "he was walking to the shipyard when",
+   "start": 39.06,
+   "end": 40.68
+  },
+  {
+   "text": "he heard a plane overhead.",
+   "start": 40.68,
+   "end": 43.1
+  },
+  {
+   "text": "He looked up and saw something",
+   "start": 43.44,
+   "end": 45.18
+  },
+  {
+   "text": "drifting down on a parachute.",
+   "start": 45.18,
+   "end": 47.4
+  },
+  {
+   "text": "Then,",
+   "start": 47.94,
+   "end": 48.8
+  },
+  {
+   "text": "a flash brighter than the sun.",
+   "start": 48.8,
+   "end": 51.68
+  },
+  {
+   "text": "He was about three kilometers",
+   "start": 51.68,
+   "end": 53.14
+  },
+  {
+   "text": "from the blast.",
+   "start": 53.14,
+   "end": 54.66
+  },
+  {
+   "text": "The shock wave threw",
+   "start": 54.66,
+   "end": 56.54
+  },
+  {
+   "text": "him to the ground.",
+   "start": 56.54,
+   "end": 58.6
+  },
+  {
+   "text": "His eardrums burst.",
+   "start": 59.06,
+   "end": 60.68
+  },
+  {
+   "text": "The left side of his upper",
+   "start": 61.2,
+   "end": 62.68
+  },
+  {
+   "text": "body was badly burned.",
+   "start": 62.68,
+   "end": 64.98
+  },
+  {
+   "text": "When he looked up,",
+   "start": 65.46,
+   "end": 66.6
+  },
+  {
+   "text": "a giant mushroom cloud was",
+   "start": 66.6,
+   "end": 68.1
+  },
+  {
+   "text": "rising over the city.",
+   "start": 68.1,
+   "end": 69.66
+  },
+  {
+   "text": "He spent the night in",
+   "start": 69.66,
+   "end": 70.68
+  },
+  {
+   "text": "an air raid shelter.",
+   "start": 70.68,
+   "end": 72.18
+  },
+  {
+   "text": "The next morning,",
+   "start": 72.26,
+   "end": 73.34
+  },
+  {
+   "text": "he made his way to the station,",
+   "start": 73.34,
+   "end": 75.3
+  },
+  {
+   "text": "found one of the few trains",
+   "start": 75.3,
+   "end": 76.54
+  },
+  {
+   "text": "still running,",
+   "start": 76.54,
+   "end": 77.54
+  },
+  {
+   "text": "and rode it home to Nagasaki.",
+   "start": 77.54,
+   "end": 79.74
+  },
+  {
+   "text": "Wrapped in bandages,",
+   "start": 79.94,
+   "end": 81.64
+  },
+  {
+   "text": "exhausted,",
+   "start": 81.64,
+   "end": 82.66
+  },
+  {
+   "text": "he had survived the unthinkable.",
+   "start": 82.8,
+   "end": 84.9
+  },
+  {
+   "text": "Surely,",
+   "start": 85.02,
+   "end": 85.64
+  },
+  {
+   "text": "the worst was over.",
+   "start": 85.64,
+   "end": 87.16
+  },
+  {
+   "text": "On August 9th,",
+   "start": 87.38,
+   "end": 89.1
+  },
+  {
+   "text": "he insisted on going back to work.",
+   "start": 89.1,
+   "end": 91.54
+  },
+  {
+   "text": "He was telling his supervisor",
+   "start": 91.68,
+   "end": 92.96
+  },
+  {
+   "text": "what he'd seen.",
+   "start": 92.96,
+   "end": 95.0
+  },
+  {
+   "text": "One bomb destroying",
+   "start": 95.24,
+   "end": 96.36
+  },
+  {
+   "text": "an entire city.",
+   "start": 96.36,
+   "end": 98.08
+  },
+  {
+   "text": "His boss didn't believe him.",
+   "start": 98.52,
+   "end": 100.58
+  },
+  {
+   "text": "That's impossible,",
+   "start": 100.76,
+   "end": 102.08
+  },
+  {
+   "text": "he said.",
+   "start": 102.08,
+   "end": 103.12
+  },
+  {
+   "text": "One bomb can't do that.",
+   "start": 103.28,
+   "end": 105.58
+  },
+  {
+   "text": "And at that exact moment,",
+   "start": 105.78,
+   "end": 107.96
+  },
+  {
+   "text": "the room filled with the same",
+   "start": 107.96,
+   "end": 109.62
+  },
+  {
+   "text": "blinding white light.",
+   "start": 109.62,
+   "end": 111.9
+  },
+  {
+   "text": "Once again,",
+   "start": 112.44,
+   "end": 113.66
+  },
+  {
+   "text": "Tsutomu was about three kilometers",
+   "start": 113.84,
+   "end": 116.02
+  },
+  {
+   "text": "from ground zero.",
+   "start": 116.02,
+   "end": 118.12
+  },
+  {
+   "text": "Somehow,",
+   "start": 118.12,
+   "end": 118.72
+  },
+  {
+   "text": "he survived again.",
+   "start": 118.72,
+   "end": 120.74
+  },
+  {
+   "text": "His bandages were torn off,",
+   "start": 121.06,
+   "end": 123.02
+  },
+  {
+   "text": "and he fell sick with fever",
+   "start": 123.02,
+   "end": 124.34
+  },
+  {
+   "text": "for over a week.",
+   "start": 124.34,
+   "end": 125.92
+  },
+  {
+   "text": "But his wife and son",
+   "start": 126.98,
+   "end": 128.38
+  },
+  {
+   "text": "had also survived.",
+   "start": 128.38,
+   "end": 130.38
+  },
+  {
+   "text": "And Tsutomu went on to",
+   "start": 130.56,
+   "end": 133.12
+  },
+  {
+   "text": "live a long life.",
+   "start": 133.12,
+   "end": 134.88
+  },
+  {
+   "text": "He had more children,",
+   "start": 135.14,
+   "end": 136.58
+  },
+  {
+   "text": "worked as a teacher,",
+   "start": 136.58,
+   "end": 137.76
+  },
+  {
+   "text": "and an engineer again.",
+   "start": 137.76,
+   "end": 139.86
+  },
+  {
+   "text": "And in 2009,",
+   "start": 140.26,
+   "end": 141.78
+  },
+  {
+   "text": "the Japanese government officially",
+   "start": 141.78,
+   "end": 143.36
+  },
+  {
+   "text": "recognized him as a survivor",
+   "start": 143.36,
+   "end": 145.2
+  },
+  {
+   "text": "of both bombings,",
+   "start": 145.2,
+   "end": 147.0
+  },
+  {
+   "text": "the only person ever formally",
+   "start": 147.04,
+   "end": 148.84
+  },
+  {
+   "text": "given that status.",
+   "start": 148.84,
+   "end": 150.86
+  },
+  {
+   "text": "In his later years,",
+   "start": 150.86,
+   "end": 152.04
+  },
+  {
+   "text": "he traveled and spoke out",
+   "start": 152.04,
+   "end": 153.22
+  },
+  {
+   "text": "against nuclear weapons,",
+   "start": 153.22,
+   "end": 154.82
+  },
+  {
+   "text": "so no one would ever experience",
+   "start": 154.82,
+   "end": 156.36
+  },
+  {
+   "text": "what he did.",
+   "start": 156.36,
+   "end": 157.72
+  },
+  {
+   "text": "Twice.",
+   "start": 158.0,
+   "end": 158.84
+  },
+  {
+   "text": "Tsutomu Yamaguchi died in",
+   "start": 159.4,
+   "end": 161.1
+  },
+  {
+   "text": "2010 at the age of 93.",
+   "start": 161.1,
+   "end": 163.78
+  },
+  {
+   "text": "Some people call him the unluckiest",
+   "start": 164.4,
+   "end": 165.96
+  },
+  {
+   "text": "man in history.",
+   "start": 165.96,
+   "end": 167.36
+  },
+  {
+   "text": "Others call him the luckiest.",
+   "start": 167.7,
+   "end": 169.6
+  },
+  {
+   "text": "What do you think?",
+   "start": 169.82,
+   "end": 171.22
+  },
+  {
+   "text": "Tell me in the comments and subscribe",
+   "start": 171.32,
+   "end": 172.9
+  },
+  {
+   "text": "for more stories that sound too",
+   "start": 172.9,
+   "end": 174.62
+  },
+  {
+   "text": "crazy to be true.",
+   "start": 174.62,
+   "end": 176.1
+  }
+ ],
+ "caption_style": {
+  "font_px": 64,
+  "weight": "extra bold",
+  "color": "white",
+  "stroke": {
+   "color": "black",
+   "px": 4
+  },
+  "center_px": [
+   960,
+   960
+  ],
+  "max_width_px": 1651
+ },
+ "sfx": [
+  {
+   "start": 0.0,
+   "length": 2.5,
+   "what": "deep distant boom under the opening flash",
+   "search": [
+    "boom",
+    "distant explosion",
+    "sub drop"
+   ],
+   "level_db": -10
+  },
+  {
+   "start": 4.7,
+   "length": 2.0,
+   "what": "train whistle and chug on 'train'",
+   "search": [
+    "train whistle",
+    "steam train"
+   ],
+   "level_db": -14
+  },
+  {
+   "start": 7.6,
+   "length": 2.0,
+   "what": "explosion impact on 'hit by a second one'",
+   "search": [
+    "explosion",
+    "impact"
+   ],
+   "level_db": -8
+  },
+  {
+   "start": 9.7,
+   "length": 1.0,
+   "what": "calendar page flip",
+   "search": [
+    "page flip",
+    "paper whoosh"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 11.25,
+   "length": 0.8,
+   "what": "rubber stamp thud",
+   "search": [
+    "stamp",
+    "thud"
+   ],
+   "level_db": -10
+  },
+  {
+   "start": 13.4,
+   "length": 1.5,
+   "what": "soft reveal chime on his name",
+   "search": [
+    "chime",
+    "reveal",
+    "ding"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 15.4,
+   "length": 3.5,
+   "what": "shipyard ambience: metal clanks, gulls",
+   "search": [
+    "shipyard",
+    "metal clank",
+    "harbor"
+   ],
+   "level_db": -20
+  },
+  {
+   "start": 19.0,
+   "length": 2.4,
+   "what": "pencil scribbling",
+   "search": [
+    "pencil writing",
+    "scribble"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 22.5,
+   "length": 0.5,
+   "what": "map pin pop on 'Nagasaki'",
+   "search": [
+    "pop",
+    "bubble pop"
+   ],
+   "level_db": -14
+  },
+  {
+   "start": 24.0,
+   "length": 1.0,
+   "what": "whoosh as he sets off",
+   "search": [
+    "whoosh"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 29.4,
+   "length": 3.5,
+   "what": "clock ticking on 'August 6th'",
+   "search": [
+    "clock tick"
+   ],
+   "level_db": -18
+  },
+  {
+   "start": 33.9,
+   "length": 2.0,
+   "what": "dreamy shimmer for the thought bubble",
+   "search": [
+    "shimmer",
+    "magic chime"
+   ],
+   "level_db": -18
+  },
+  {
+   "start": 38.1,
+   "length": 2.3,
+   "what": "morning birds",
+   "search": [
+    "birds morning"
+   ],
+   "level_db": -20
+  },
+  {
+   "start": 40.8,
+   "length": 3.0,
+   "what": "distant propeller plane on 'heard a plane'",
+   "search": [
+    "propeller plane",
+    "plane flyby"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 43.4,
+   "length": 4.4,
+   "what": "wind, parachute flutter",
+   "search": [
+    "wind",
+    "cloth flutter"
+   ],
+   "level_db": -20
+  },
+  {
+   "start": 47.9,
+   "length": 0.9,
+   "what": "single heartbeat in the silence after 'Then,'",
+   "search": [
+    "heartbeat"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 48.8,
+   "length": 3.0,
+   "what": "huge flash impact with high ring on 'a flash'",
+   "search": [
+    "explosion big",
+    "cinematic impact"
+   ],
+   "level_db": -6
+  },
+  {
+   "start": 54.6,
+   "length": 2.5,
+   "what": "shockwave whoosh and rumble",
+   "search": [
+    "shockwave",
+    "rumble",
+    "heavy whoosh"
+   ],
+   "level_db": -8
+  },
+  {
+   "start": 59.0,
+   "length": 2.2,
+   "what": "ear ringing on 'eardrums burst'",
+   "search": [
+    "tinnitus",
+    "ear ringing"
+   ],
+   "level_db": -14
+  },
+  {
+   "start": 65.4,
+   "length": 4.2,
+   "what": "low rumble under the mushroom cloud",
+   "search": [
+    "low rumble",
+    "distant thunder"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 69.6,
+   "length": 2.6,
+   "what": "night crickets in the shelter",
+   "search": [
+    "crickets night"
+   ],
+   "level_db": -20
+  },
+  {
+   "start": 75.2,
+   "length": 2.3,
+   "what": "steam train whistle and chuff",
+   "search": [
+    "steam train"
+   ],
+   "level_db": -14
+  },
+  {
+   "start": 77.5,
+   "length": 2.0,
+   "what": "train brakes hiss arriving",
+   "search": [
+    "train brakes",
+    "steam hiss"
+   ],
+   "level_db": -14
+  },
+  {
+   "start": 85.0,
+   "length": 2.3,
+   "what": "ominous low stinger on 'Surely, the worst was over'",
+   "search": [
+    "ominous stinger",
+    "dark hit"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 87.3,
+   "length": 1.0,
+   "what": "office door opening",
+   "search": [
+    "door open"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 105.7,
+   "length": 2.2,
+   "what": "heartbeat and rising tone on 'at that exact moment'",
+   "search": [
+    "heartbeat",
+    "riser"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 107.9,
+   "length": 3.0,
+   "what": "huge flash impact with high ring (same as Hiroshima)",
+   "search": [
+    "explosion big",
+    "cinematic impact"
+   ],
+   "level_db": -6
+  },
+  {
+   "start": 112.4,
+   "length": 4.0,
+   "what": "low rumble",
+   "search": [
+    "low rumble"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 118.1,
+   "length": 2.0,
+   "what": "debris settling, cough",
+   "search": [
+    "debris",
+    "rubble"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 121.0,
+   "length": 5.0,
+   "what": "slow clock ticking through the fever week",
+   "search": [
+    "clock tick"
+   ],
+   "level_db": -20
+  },
+  {
+   "start": 130.5,
+   "length": 4.5,
+   "what": "time-passing whoosh",
+   "search": [
+    "whoosh",
+    "time lapse"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 140.5,
+   "length": 1.0,
+   "what": "soft chime on '2009'",
+   "search": [
+    "chime"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 146.9,
+   "length": 1.0,
+   "what": "spotlight switching on",
+   "search": [
+    "spotlight switch",
+    "clunk"
+   ],
+   "level_db": -14
+  },
+  {
+   "start": 150.8,
+   "length": 4.0,
+   "what": "crowd murmur, then light applause",
+   "search": [
+    "crowd",
+    "applause"
+   ],
+   "level_db": -20
+  },
+  {
+   "start": 158.0,
+   "length": 0.5,
+   "what": "soft boom on 'Twice.'",
+   "search": [
+    "boom soft"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 158.3,
+   "length": 0.6,
+   "what": "second soft boom",
+   "search": [
+    "boom soft"
+   ],
+   "level_db": -12
+  },
+  {
+   "start": 164.3,
+   "length": 3.3,
+   "what": "rain on the unlucky man",
+   "search": [
+    "rain"
+   ],
+   "level_db": -18
+  },
+  {
+   "start": 167.6,
+   "length": 1.5,
+   "what": "sparkle on 'luckiest'",
+   "search": [
+    "sparkle"
+   ],
+   "level_db": -16
+  },
+  {
+   "start": 171.3,
+   "length": 0.5,
+   "what": "pop as the comment icon appears",
+   "search": [
+    "pop"
+   ],
+   "level_db": -14
+  },
+  {
+   "start": 172.46,
+   "length": 0.5,
+   "what": "mouse click on 'subscribe'",
+   "search": [
+    "mouse click"
+   ],
+   "level_db": -12
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 47.9,
+   "mood": "tense, mysterious documentary underscore (piano + low strings)",
+   "search": [
+    "documentary tension",
+    "mystery piano",
+    "suspense"
+   ],
+   "level_db": -22,
+   "fade_in": 1.0,
+   "out": "hard cut at 47.9 on 'Then,'"
+  },
+  {
+   "start": 51.2,
+   "end": 105.7,
+   "mood": "dark, somber ambient drone / strings",
+   "search": [
+    "dark ambient",
+    "somber strings",
+    "drone"
+   ],
+   "level_db": -24,
+   "fade_in": 2.0,
+   "out": "hard cut at 105.7 on 'And at that exact moment'"
+  },
+  {
+   "start": 111.3,
+   "end": 126.9,
+   "mood": "same somber bed as above, continued",
+   "search": [
+    "dark ambient",
+    "somber strings"
+   ],
+   "level_db": -24,
+   "fade_in": 1.5,
+   "out": "2 s crossfade"
+  },
+  {
+   "start": 126.9,
+   "end": 176.1,
+   "mood": "warm, hopeful, reflective piano",
+   "search": [
+    "hopeful piano",
+    "emotional",
+    "reflective"
+   ],
+   "level_db": -22,
+   "fade_in": 2.0,
+   "out": "2 s fade out at the end"
+  }
+ ],
+ "rules": [
+  "Clips sit end to end from 0:00 with no gaps or overlaps; no transitions that overlap clips.",
+  "Zoom keyframes stay inside each clip; scale changes no more than 3% per clip.",
+  "Voice peaks stay on top: music -22 to -24 dB, effects as listed, mix peak below -0.5 dBFS.",
+  "All text inside 86% of frame width; titles top centre, captions bottom centre."
+ ]
+}
