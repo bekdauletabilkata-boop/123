@@ -1,0 +1,54 @@
+shot,scene,scene_name,start_sec,end_sec,duration_sec,narration,visual
+1,1,Hook,0.0,3.1,3.1,Imagine surviving an atomic bomb.,Black screen. A lone stickman fades in at center. A bright flash on the horizon; he braces.
+2,1,Hook,3.1,5.4,2.3,"Now imagine getting on a train,",The same stickman steps onto a simple train. Doors slide shut.
+3,1,Hook,5.4,7.2,1.8,traveling to another city…,Train chugs along a dotted line between two city dots on a map.
+4,1,Hook,7.2,9.7,2.5,and getting hit by a second one.,"A second blinding flash. Stickman's jaw drops, ""?!"" above his head."
+5,1,Hook,9.7,11.2,1.5,Three days later.,"Calendar page AUG 6 flips to AUG 9. Big text: ""3 DAYS""."
+6,1,Hook,11.2,12.7,1.5,This actually happened.,"""TRUE STORY"" stamp slams onto the screen."
+7,1,Hook,12.7,15.4,2.7,His name was Tsutomu Yamaguchi.,"Stickman with a name tag. Title text: ""TSUTOMU YAMAGUCHI""."
+8,2,Who he was,15.4,19.0,3.6,"In 1945, Tsutomu was a 29-year-old engineer","Text ""1945"". Stickman in a hard hat holding a clipboard, label ""29 · ENGINEER""."
+9,2,Who he was,19.0,21.4,2.4,who designed oil tankers for Mitsubishi,Stickman at a drafting table sketching a big oil tanker blueprint.
+10,2,Who he was,21.4,24.0,2.6,in his hometown of Nagasaki.,"Map of Japan, pin drops on Nagasaki, small house icon."
+11,2,Who he was,24.0,29.4,5.4,"That summer, his company sent him on a three-month business trip to Hiroshima.","Stickman with a suitcase walks a dotted line Nagasaki → Hiroshima. Tag: ""3 MONTHS""."
+12,2,Who he was,29.4,33.9,4.5,"On August 6th, it was his last day there.","Calendar: ""AUGUST 6, 1945"". Stickman packing his suitcase."
+13,2,Who he was,33.9,38.1,4.2,"Tomorrow, he'd finally go home to his wife and baby son.",Thought bubble: wife stickman holding a baby in front of their house.
+14,3,Hiroshima,38.1,40.4,2.3,"That morning, he was walking to the shipyard",Sunny morning. Stickman walks and whistles toward shipyard cranes.
+15,3,Hiroshima,40.4,43.4,3.0,when he heard a plane overhead.,"He stops and looks up. Tiny plane high in the sky, ""VRRR""."
+16,3,Hiroshima,43.4,47.9,4.5,He looked up and saw something drifting down on a parachute.,Close-up: an object under a parachute slowly drifting down.
+17,3,Hiroshima,47.9,48.7,0.8,"Then,",Freeze frame. Silence. Stickman's eyes widen.
+18,3,Hiroshima,48.7,51.6,2.9,a flash brighter than the sun.,Full-screen white flash; the sun icon looks dim next to it.
+19,3,Hiroshima,51.6,54.6,3.0,He was about three kilometers from the blast.,"Diagram: blast point ↔ stickman, distance label ""3 km""."
+20,3,Hiroshima,54.6,59.0,4.4,The shockwave threw him to the ground.,Shockwave ring sweeps across; stickman flies backward and lands.
+21,3,Hiroshima,59.0,61.2,2.2,His eardrums burst.,"Close-up of head, red zigzag at the ear, ringing ""EEEEE""."
+22,3,Hiroshima,61.2,65.4,4.2,The left side of his upper body was badly burned.,"Stickman with left side of upper body highlighted red, burn patches."
+23,3,Hiroshima,65.4,69.6,4.2,"When he looked up, a giant mushroom cloud was rising over the city.","Wide shot: tiny stickman, giant mushroom cloud over the city skyline."
+24,4,The journey home,69.6,72.2,2.6,He spent the night in an air-raid shelter.,"Dark shelter at night, stickman huddled, moon outside."
+25,4,The journey home,72.2,75.2,3.0,"The next morning, he made his way to the station,",Sunrise. Bandaged stickman limps toward a station sign.
+26,4,The journey home,75.2,77.5,2.3,"found one of the few trains still running,","Crowded train puffing smoke, stickman squeezes aboard."
+27,4,The journey home,77.5,79.9,2.4,and rode it home to Nagasaki.,"Train pulls in under a ""NAGASAKI"" sign; map line back home."
+28,4,The journey home,79.9,85.0,5.1,"Wrapped in bandages, exhausted, he had survived the unthinkable.","Bandaged stickman slumped on a bench, long sigh."
+29,4,The journey home,85.0,87.3,2.3,"Surely, the worst was over.",Stickman smiles faintly. Ominous music sting; sky darkens slightly.
+30,5,Nagasaki,87.3,91.6,4.3,"On August 9th, he insisted on going back to work.","Calendar ""AUGUST 9"". Bandaged stickman walks into an office."
+31,5,Nagasaki,91.6,95.2,3.6,He was telling his supervisor what he'd seen.,Two stickmen in the office; Tsutomu gestures wildly. Window behind them.
+32,5,Nagasaki,95.2,98.5,3.3,One bomb destroying an entire city.,Speech bubble: one bomb icon → whole city crumbling.
+33,5,Nagasaki,98.5,100.7,2.2,His boss didn't believe him.,"Boss with crossed arms, ""?"" over his head, eye-roll."
+34,5,Nagasaki,100.7,103.2,2.5,"""That's impossible,"" he said.","Boss waves his hands; speech bubble ""IMPOSSIBLE""."
+35,5,Nagasaki,103.2,105.7,2.5,"""One bomb can't do that.""",Boss laughs and points at Tsutomu.
+36,5,Nagasaki,105.7,107.9,2.2,"And at that exact moment,",Slow motion: the window behind them starts glowing.
+37,5,Nagasaki,107.9,112.4,4.5,the room filled with the same blinding white light.,Room whites out completely.
+38,5,Nagasaki,112.4,118.1,5.7,"Once again, Tsutomu was about three kilometers from ground zero.","Same distance diagram as before, now in Nagasaki: ""3 km… AGAIN""."
+39,6,Survival,118.1,121.0,2.9,"Somehow, he survived again.","Stickman crawls out of rubble, coughing."
+40,6,Survival,121.0,126.9,5.9,"His bandages were torn off, and he fell sick with fever for over a week.",Stickman in bed with a thermometer; calendar pages flip through 7 days.
+41,6,Survival,126.9,130.5,3.6,But his wife and son had also survived.,"Family reunion hug, heart pops above them."
+42,6,Survival,130.5,135.1,4.6,And Tsutomu went on to live a long life.,Years flip by on a timeline; stickman gradually ages.
+43,6,Survival,135.1,140.2,5.1,"He had more children, worked as a teacher and an engineer again.","More kids appear; stickman at a chalkboard, then back in a hard hat."
+44,6,Survival,140.2,146.9,6.7,"And in 2009, the Japanese government officially recognized him as a survivor of both bombings,","Old stickman receives a certificate ""2009""; two bomb icons with checkmarks."
+45,6,Survival,146.9,150.8,3.9,the only person ever formally given that status.,"Spotlight on him, badge ""ONLY ONE""."
+46,7,Outro,150.8,154.8,4.0,"In his later years, he traveled and spoke out against nuclear weapons,",Old stickman at a podium speaking to a crowd; anti-nuclear sign.
+47,7,Outro,154.8,157.9,3.1,so no one would ever experience what he did.,Children stickmen playing peacefully in a park.
+48,7,Outro,157.9,159.3,1.4,Twice.,"Big ""×2"" with two flash icons."
+49,7,Outro,159.3,164.3,5.0,Tsutomu Yamaguchi died in 2010 at the age of 93.,"Single paper crane; text ""2010 · AGE 93""; slow fade."
+50,7,Outro,164.3,167.6,3.3,Some people call him the unluckiest man in history.,"Split screen left: rain cloud over stickman, ""UNLUCKIEST""."
+51,7,Outro,167.6,169.7,2.1,Others call him the luckiest.,"Split screen right: sun and four-leaf clover, ""LUCKIEST""."
+52,7,Outro,169.7,171.2,1.5,What do you think?,"Narrator stickman shrugs toward the camera, ""?""."
+53,7,Outro,171.2,176.1,4.9,Tell me in the comments and subscribe for more stories that sound too crazy to be true.,"Comment icon pops, then a subscribe button gets clicked. End card."
